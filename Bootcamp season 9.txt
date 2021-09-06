@@ -1,0 +1,61 @@
+Bootcamp S09 Thread
+Class Announcement
+Class 0: 12-02-2021 at 7 pm.
+Topics: Introduction, discuss today's problems.
+Contest: https://vjudge.net/contest/422810
+Class Recording Link: https://drive.google.com/file/d/1YSwFJ3sF1EtQsjsBomEXfvf-YwoyZ56e/view?fbclid=IwAR2uh9lmPQc4Puihqv_3KKbktxUvw7a_XiutgK2pvtonDwmUDgyYPp-fIZo
+Docs link: https://docs.google.com/document/d/1rhn0w91NQazZOcURG1eoAiuYC0ANZaj0Ax2WGzre8BA/edit?fbclid=IwAR2iKGj8ScNrpaoIHGwUFQXNs4NwDsEdEF9rwWF-4xpAwSIwJ2sDqgNFgNk
+Schedule for 19-02-2021
+Individual contest at 10 am. Duration: 3.00 hours. Link: https://vjudge.net/contest/423432
+
+Class 1: 19-02-2021 at 8 pm.
+Topics: Primality test, number of divisors
+Contest: https://vjudge.net/contest/423745
+Class Recording Link: https://drive.google.com/file/d/1OSUf_jWR2eIrRH65EyPDgyQIVJe5m7tX/view?fbclid=IwAR0QmMmdCpft1y0yOMmy0ijqkh7pYSZUHGOG1zKHRM-J0TeCXKRdzzujHdA
+Docs link: Updated on Class 0's document.
+Schedule for 25-02-2021
+Individual contest at 7 pm. Duration: 3.00 hours. 
+Link:
+https://vjudge.net/contest/424565
+Schedule for 26-02-2021
+
+Class 2 at 8PM
+Topics: GCD, LCM, Sieve, SOD, NOD
+Contest: https://vjudge.net/contest/424770
+Docs link: https://docs.google.com/document/d/1YjdY_6tVebl9l5ErrXjZoZ9cs2zWIbQVUDBhm9n2LhQ/edit?fbclid=IwAR3d0R8CUv0SANo-N74-XRRyBQKqHhkCBpoVxhWIihx8R8P7Rcy6dc9Q6uI
+Recording link: https://drive.google.com/file/d/1g9Qa7s4WQOmhdlT9nU24jVveG6HuXNBl/view?fbclid=IwAR1qdnMgeemU4rRtE5QiRlTxRVMJMdH_UUaDE-0bjNYidgJftGkLYjWnYe0
+Schedule for 05-03-2021
+Individual contest at 10 am. Duration: 3.00 hours. Link:
+https://vjudge.net/contest/425696
+Schedule for 07-03-2021
+
+Class 2.1 at 7PM
+Topics: Prime Factorization, Sieve, NOD, SOD
+Doc link: https://docs.google.com/document/d/1DsT2csfeE0IlJh-uK_73hmWFMmB8hYG6-zut7K5oiq0/edit?fbclid=IwAR0QmMmdCpft1y0yOMmy0ijqkh7pYSZUHGOG1zKHRM-J0TeCXKRdzzujHdA
+Recording link: https://drive.google.com/file/d/1FjpXHWG-UapYkNkqWdDplxB8N1pWgNHe/view?fbclid=IwAR2jDvaLj-aWkdfecX1lLyzbaoV1QWDj2X7mWBCq8xMF8Im5wne6rn5ngSg
+Schedule for 12-03-2021
+Individual contest at 7 pm. Duration: 3.00 hours. Link:
+https://vjudge.net/contest/426926
+Schedule for 13-03-2021
+
+Class 3 at 8PM
+Topics: Bigmod, Prime Factorization, STL - 1
+Contest: https://vjudge.net/contest/427363
+Docs link: https://docs.google.com/document/d/16aMqQT7DONEcwfmlnU-Zgx4K1z38eq5NMwPIB0DhlLg/edit?fbclid=IwAR1RI35rXhClPSHznmMn8GSVZ8yAXSYH77wwqOsIr9oM2jX_QzUlU-elETM
+Slide link: https://drive.google.com/file/d/18KKNaWykmKEBOeUa4bC4evyckNrWQspG/view?fbclid=IwAR3gV9REfJQYrUubOSSxd1sdku0JC8ixV_88S6wo6JrQP0YJi0_G-5Q5zi4
+Recording link: https://drive.google.com/file/d/1ZomFAB2lW0KBkGcTC4DLXsLRXYnppRhP/view?fbclid=IwAR3axfxRbwRjbFQlwZyxJjrLNqkbLJck2VPR7jkGEVN2_nsZjOWQ4baOetE
+Schedule for 19-03-2021
+Individual contest at 7 pm. Duration: 3.00 hours. Link:
+https://vjudge.net/contest/427908
+Schedule for 20-03-2021
+
+Class 3.1 at 8PM
+Topics: Problem Discussion
+Class Recording: https://drive.google.com/file/d/1eqXL1UGa_JRfDPsbbLeMpNI83ypt3R13/view?fbclid=IwAR3W0vp3Q1guVOyfsPG4vMfPpQbifZdbJ4XWv-t3z5faVeASKML5iuPP-gU
+Schedule for 27-03-2021
+
+Class 4 at 8PM
+Topics: Prefix/Partial Sum, Structure, STL - 2
+Docs link: https://docs.google.com/document/d/1oZLxUoZtwmY5WXsKLDd5KsoydqTJ5urJO1mLHpXaKVM/edit?fbclid=IwAR3eGFmG4lOAht3Eg3d5P2GAs9gEfF5MNbGXigFAGAxFZisrUcl1Dtwi-yY
+Recording link: https://drive.google.com/file/d/1VL0fZrLc2lUe-eep7jI3bROXTkyz7m-X/view?fbclid=IwAR1RI35rXhClPSHznmMn8GSVZ8yAXSYH77wwqOsIr9oM2jX_QzUlU-elETM
+Contest link: https://vjudge.net/contest/429837?fbclid=IwAR3DpiGIhNr95hl7xob1B8-yOYHd4CQXqnvmOWAyzN-jB2fewFftiR7mRRU
