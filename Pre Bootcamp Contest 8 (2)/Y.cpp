@@ -41,41 +41,41 @@ int main()
 }
 
 
-/*#include<iostream>
-using namespace std;
-int main()
-{
-    int n;
-    cin>>n;
-    long int arr[n];
-    int flag=0;
-    for(int i=0;i<n;i++)
-    {
-        cin>>arr[i];
-    }
-    for(int i=0;i<n;i++)
-    {
-        for(int x=0;x<n;x++)
-        {
-            if(x==i) continue;
-            for(int y=0;y<n;y++)
-            {
-                if(y==i || y==x) continue;
-                if((arr[i]+arr[x])>arr[y] && (arr[i]+arr[y])>arr[x] && (arr[x]+arr[y])>arr[i])
-                {
-                    flag=1;
-                    break;
-                }
-            }
-            if(flag==1) break;
-        }
-        if(flag==1) break;
-    }
+// #include<iostream>
+// using namespace std;
+// int main()
+// {
+//     int n;
+//     cin>>n;
+//     long int arr[n];
+//     int flag=0;
+//     for(int i=0;i<n;i++)
+//     {
+//         cin>>arr[i];
+//     }
+//     for(int i=0;i<n;i++)
+//     {
+//         for(int x=0;x<n;x++)
+//         {
+//             if(x==i) continue;
+//             for(int y=0;y<n;y++)
+//             {
+//                 if(y==i || y==x) continue;
+//                 if((arr[i]+arr[x])>arr[y] && (arr[i]+arr[y])>arr[x] && (arr[x]+arr[y])>arr[i])
+//                 {
+//                     flag=1;
+//                     break;
+//                 }
+//             }
+//             if(flag==1) break;
+//         }
+//         if(flag==1) break;
+//     }
 
-    if(flag==1)
-        cout<<"YES"<<endl;
-    else
-        cout<<"NO"<<endl;
+//     if(flag==1)
+//         cout<<"YES"<<endl;
+//     else
+//         cout<<"NO"<<endl;
 
-    return 0;
-}
+//     return 0;
+// }
